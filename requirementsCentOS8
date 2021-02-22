@@ -27,3 +27,9 @@ ipmiutil
 libnsl2-devel
 libvirt-libs
 net-tools
+OpenIPMI
+ipmitool
+nfs-utils
+net-tools
+libvirt-devel
+libvirt-libs
